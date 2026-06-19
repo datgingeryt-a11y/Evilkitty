@@ -71,6 +71,12 @@ border-radius: 0px !important; }
 background: #161121 !important;
 color: #e4a574 !important; }
 
+.top, .bottom, th {
+background: #161121 !important;
+color: #e4a574 !important;
+border: none !important;
+border-radius: 0px !important; }
+
 /* Bookmark Bar */
 
 .breadcrumb {
