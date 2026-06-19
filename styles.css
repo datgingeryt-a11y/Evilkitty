@@ -55,13 +55,39 @@ background: none; }
 
 /* NAVBAR */
 
-.topbar,
-.navbar,
+.topbar {
+background: #161121 !important;
+color: #edbe24 !important;
+border: none !important;
+border-radius: 0px !important;  }
+ 
+.navbar {
+background: #161121 !important;
+color: #edbe24 !important;
+border: none !important;
+border-radius: 0px !important; }
+
+.navbar li a:hover {
+background: #161121 !important;
+color: #e4a574 !important; }
+
+/* Bookmark Bar */
+
 .breadcrumb {
-  background: #1A1428 !important;
-  color: #D7D0C9 !important;
-  border-bottom: 1px solid #9C6A9A !important;
-}
+background: #161121 !important;
+color: #e4a574 !important;
+border: none !important;
+border-radius: 0px !important;} 
+.breadcrumb .active {
+color: #e4a574; }
+
+/* Comment Box */
+
+div#commentBox {
+background: #161121 !important;
+border: none !important;
+border-radius: 0px !important;
+color: #e4a574 !important;}
 
 /* TABLE HEADERS */
 
@@ -71,6 +97,12 @@ th {
   background: #2C2140 !important;
   color: #C8A75A !important;
 }
+
+div.left {
+background: #161121 !important;
+color: #e4a574 !important;
+border: none !important;
+border-radius: 0px !important; }
 
 /* PROGRESS BARS */
 
