@@ -127,7 +127,10 @@ border-radius: 0px !important;  }
 .inner-table .right {
 background: #161121 !important;
 border-radius: 0px !important; 
-color: #HEX !important; } 
+color: #e4a574 !important; } 
+
+.right_odd {
+background: none !important; }
 
 /* PROGRESS BARS */
 
