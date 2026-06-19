@@ -120,6 +120,15 @@ border-radius: 0px !important; }
 background: #161121;
 border-radius: 0px !important; }
 
+.inner-table .left {
+background: #161121 !important;
+border-radius: 0px !important;  }
+
+.inner-table .right {
+background: #161121 !important;
+border-radius: 0px !important; 
+color: #HEX !important; } 
+
 /* PROGRESS BARS */
 
 .progress {
