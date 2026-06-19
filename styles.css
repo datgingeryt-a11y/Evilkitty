@@ -104,6 +104,12 @@ th {
   color: #C8A75A !important;
 }
 
+.feature {
+background: 161121 !important;
+color: #e4a574 !important;
+border: 3px double #e4a574 !important;
+border-radius: 0px !important;  }
+
 div.left {
 background: #161121 !important;
 color: #e4a574 !important;
