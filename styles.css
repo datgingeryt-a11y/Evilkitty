@@ -46,8 +46,12 @@ a:hover {
 /* MAIN CONTAINER */
 
 .container.main {
-  background: rgba(22, 17, 33, 0.0);
-}
+background: rgba(22, 17, 33, 0.0);
+border: none;
+box-shadow: none;
+border-radius: 5px; }
+.col-md-9 {
+background: none; } 
 
 /* NAVBAR */
 
