@@ -8,6 +8,12 @@
   }
 }
 
+@media screen and (max-width: 600px){
+body {
+background: url('https://i.imgur.com/77cvute.png') center center fixed;
+background-size: cover;
+color: #D7D0C9; } }
+
 /* HEADERS */
 
 h1 {
